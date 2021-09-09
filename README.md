@@ -1,4 +1,4 @@
-# Telecom-Churn-
+# Telecom-Churn
 This piece of notebook, deals with telecom data to identify key parameters for churning of customers and build a predictive model on that.
 
 The dataset contains customer-level information for a span of four consecutive months - June, July, August and September. The months are encoded as 6, 7, 8 and 9, respectively. 
